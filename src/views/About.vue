@@ -51,7 +51,10 @@
                                     {
                                         "path": "/func331",
                                         "title": "功能3-3-1",
-                                        "children": []
+                                        "children": [{
+                                          "path": "/func3311",
+                                          "title": "功能3-3-1-1",
+                                        }]
                                     }
                                 ]
                             },
