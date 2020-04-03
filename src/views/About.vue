@@ -1,6 +1,5 @@
 <template>
     <div class="sidebar-container">
-        888444
         <el-scrollbar wrap-class="scrollbar-wrapper">
             <el-menu
                     router
@@ -52,7 +51,10 @@
                                     {
                                         "path": "/func331",
                                         "title": "功能3-3-1",
-                                        "children": []
+                                        "children": [{
+                                          "path": "/func3311",
+                                          "title": "功能3-3-1-1",
+                                        }]
                                     }
                                 ]
                             },
