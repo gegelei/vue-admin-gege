@@ -1,6 +1,5 @@
 <template>
     <div class="sidebar-container">
-        888444
         <el-scrollbar wrap-class="scrollbar-wrapper">
             <el-menu
                     router
